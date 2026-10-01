@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there!
 
+I'm Ron--a junior studying Mechanical Engineering at Purdue University.
+
+I enjoy building computational models for energy systems that tackle water-energy-compute challenges in the energy transition.
+
+I'm currently doing computational research for the US Department of Energy at Herrick Laboratories.
+
+Feel free to reach out to connect!
 <!--
 **ronchay/ronchay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

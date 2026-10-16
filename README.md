@@ -2,6 +2,6 @@
 
 I'm Ron—a junior studying Mechanical Engineering at Purdue University.
 
-I enjoy building computational models for water-energy-compute systems, which are now, more than ever, critical for the energy transition. I'm currently building compressor models for the US Department of Energy through Herrick Laboratories.
+I enjoy building computational models for water-energy-compute systems, which are now, more than ever, critical for the energy transition. I'm currently building compressor models for the US Department of Energy through Herrick Laboratories and thermal models for the Purdue Electric Racing team.
 
 Feel free to reach out and connect!
